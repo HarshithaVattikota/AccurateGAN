@@ -1,4 +1,4 @@
-## iGAN: Interactive Image Generation via Generative Adversarial Networks
+## Accurate_GAN: Interactive Image Generation via Generative Adversarial Networks
 
 ## Overview
 # AccurateGAN
